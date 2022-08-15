@@ -1,2 +1,5 @@
 # VBA
-Programming in VBA to do basic functions in excel 
+Programming in VBA to do basic calculation in excel that can calculate 
+perimeter of shapes
+creating a GUI calculator 
+and 
